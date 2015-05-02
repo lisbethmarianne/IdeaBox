@@ -1,16 +1,18 @@
 ---
 ideas:
 - title: food
-  description: pizza all the time
+  description: pizza all the time :)
 - title: exercise
   description: play video games
+  rank: 2
 - title: app
   description: social network for dogs
 - title: excursion
   description: take everyone to the zoo
+  rank: 3
 - title: party
   description: dance all night and all day
-- title: neue Idee
-  description: schon wieder eine idee
-- title: 'neue '
-  description: idee
+  rank: 1
+- title: drink orange juice
+  description: kill the cold
+  rank: 3
