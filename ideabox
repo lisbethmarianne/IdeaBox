@@ -1,12 +1,18 @@
 ---
 ideas:
-- :title: food
-  :description: pizza all the time
-- :title: exercise
-  :description: play video games
-- :title: app
-  :description: social network for dogs
-- :title: excursion
-  :description: take everyone to the zoo
-- :title: party
-  :description: dance all night and all day
+- title: food
+  description: pizza all the time
+- title: exercise
+  description: play video games
+- title: app
+  description: social network for dogs
+- title: excursion
+  description: take everyone to the zoo
+- title: party
+  description: dance all night and all day
+- title: neue Idee
+  description: schon wieder eine
+- title: another
+  description: idea yes yes
+- title: neue idee
+  description: hier ist sie
